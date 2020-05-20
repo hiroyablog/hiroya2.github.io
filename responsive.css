@@ -1,0 +1,392 @@
+@media all and (min-width:720px) {
+    .container {
+        padding: 0 130px!important;
+    }
+
+    .main-image {
+        height: 310px;
+    }
+
+    .main-image h1 {
+        font-size: 38px;
+        color: white;
+        padding-top: 150px;
+        font-weight: bold;
+        line-height: 95%;
+    }
+
+    .hosting h2 {
+        text-align: center;
+    }
+
+    .host-example {
+        display: flex;
+        flex-direction: row-reverse;
+        max-width: 720px;
+
+    }
+
+    img {
+        width: 50%;
+        padding-left: 20px;
+    }
+
+    .host-text {
+        width: 50%;
+        padding-right: 20px;
+    }
+
+    .safety {
+        max-width: 720px;
+    }
+
+    .safety h2 {
+        text-align: center;
+    }
+
+    .pay h2 {
+        text-align: center;
+    }
+
+    .dream h2 {
+        text-align: center;
+    }
+
+    .airbnb-wrapper h2 {
+        text-align: center;
+    }
+
+    .host-text {
+        width: 50%;
+        padding-right: 20px;
+    }
+
+    .question {
+        max-width: 720px;
+    }
+
+    .question h2 {
+        text-align: center;
+    }
+
+    .message-wrapper {
+        height: 430px;
+    }
+
+    .message-wrapper h2 {
+        color: white;
+        padding: 80px 0 0 75px;
+    
+    }
+
+    .message-start {
+        margin: 60px 0 0 75px;
+    }
+    .last-wrapper {
+        max-width: 720px;
+        display: flex;
+        padding: 75px 0 20px 0;
+        margin: 0 auto;
+    }
+
+    .last-wrapper h4 {
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        color: #484848;
+    }
+
+    .last1,.last2,.last3,.last4 {
+        list-style-type: none;
+    }
+
+    .last-wrapper li {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .last-wrapper span {
+        background-color: #008489;
+        color: white;
+        border-radius: 5px;
+        padding: 1px 2px;
+
+    }
+
+    .last-wrapper a {
+        color: rgb(126, 125, 125)!important;
+    }
+
+    .footer {
+        display: flex;
+        border-top: 1px solid #f5f5f5;
+    }
+
+    .footer-right {
+        display: inline-block;
+    }
+
+    .footer-right i {
+        font-size: 20px;
+        margin-left: 5px;
+    }
+
+
+}
+@media all and (min-width:1120px) {
+    .container {
+        padding: 0 40px!important;
+    }
+
+    .header {
+        width: 100%;
+        height: 80px;
+        display: flex!important;
+        justify-content: space-between;
+        position: fixed;
+        top: 0;
+        background-color: white;
+        z-index: 10;
+    }
+
+    .header-left {
+        display: flex;
+    }
+
+    .header i {
+        margin: 20px 10px 20px -10px;
+    }
+
+    .header-left li {
+        list-style-type: none;
+        line-height: 80px;
+        margin-right: 30px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .right-btn {
+        background-color: rgb(223, 22, 22);
+        color: white;
+        display: inline-block;
+        margin: 20px 60px 0 0;
+        padding: 6px 15px;
+        border-radius: 5px;
+        font-size: 14px;
+    }
+
+    .main-form {
+        display: block!important;
+        background-color: white;
+        width: 470px;
+        padding: 20px;
+        border-radius: 6px;
+        float: right;
+        margin-top: 80px;
+        margin-right: 80px;
+        
+    }
+
+    .card-title {
+        font-size: 40px;
+        font-weight: bold;
+        line-height: 40px;
+        letter-spacing: -0.6px;
+        padding-bottom: 15px;
+        color: #333333;
+    }
+
+    .card-subtitle {
+        font-size: 16px;
+        font-weight: bold;
+        color: #484848;
+    }
+
+    .location-f {
+        padding: 10px;
+        width: 100%;
+        margin-top: 10px;
+
+    }
+    
+    .select-form {
+        display: flex;
+        margin-top: 10px;
+        
+    }
+
+    .roomtype-f {
+        flex-grow: 5;
+        margin-right: 5px;
+        background-color: white;
+        padding: 10px;
+        height: 45px;
+        border: 1px solid rgb(182, 182, 182);
+    }
+    
+    .guest-f {
+        flex-grow: 3;
+        margin-left: 5px;
+        background-color: white;
+        padding: 10px;
+        height: 45px;
+        border: 1px solid rgb(182, 182, 182);
+    }
+
+    .form-start-f {
+        margin-top: 40px;
+        background-color: rgb(236, 58, 58);
+        width: 100%;
+        color: white;
+        border-radius: 4px;
+        padding: 10px 22px;
+    }
+    .main-image {
+        height: 600px;
+        width: 100%;
+        margin: 80px auto 0;
+        
+    }
+
+    .main-image h1 {
+        display: none;
+    }
+
+    .main-image i {
+        display: none;
+    }
+
+    .form-wrapper {
+        display: none;
+    }
+
+    .starting-text {
+        padding-bottom: 80px;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 45px;
+    }
+
+    .hosting {
+        padding-bottom: 120px;
+    }
+    
+    .hosting h2 {
+        font-size: 60px;
+        padding-bottom: 40px;
+    }
+
+    .host-example {
+        max-width: 1040px;
+        padding-bottom: 120px;
+    }
+
+    .host1 {
+        font-size: 32px;
+    }
+
+    .host2 {
+        font-size: 16px;
+    }
+
+    .safety {
+        max-width: 1040px;
+        width: 100%;
+    }
+
+    .safety h2 {
+        font-size: 60px;
+        padding-bottom: 40px;
+    }
+
+    .safe-contents {
+        display: flex;
+        justify-content: space-between;
+        
+    }
+
+    .safety-message {
+        width: 50%;
+    }
+
+    .safety-list {
+        width: 50%;
+    }
+
+    .pay h2 {
+        font-size: 60px;
+        padding-bottom: 40px;
+    }
+
+    .pay {
+        padding-bottom: 120px;
+    }
+
+    .dream {
+        padding-bottom: 120px;
+    }
+
+    .dream h2 {
+        font-size: 60px;
+        padding-bottom: 40px;
+    }
+
+    .airbnb-wrapper {
+        padding-bottom: 120px;
+    }
+
+    .airbnb-wrapper h2 {
+        font-size: 60px;
+        padding-bottom: 40px;
+    }
+
+    .question {
+        max-width: 1040px;
+        width: 100%;
+    }
+
+    .question h2 {
+        font-size: 60px;
+        padding-bottom: 40px;
+    }
+
+    .lists {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .questio-list1 {
+        width: 50%;
+    }
+
+    .question-list2 {
+        width: 50%;
+    }
+
+    .message-wrapper {
+        padding: 80px 0 0 40px;
+    }
+
+    .message-wrapper h2 {
+        font-size: 60px;
+    }
+
+    .last-wrapper {
+        max-width: 1050px;
+        width: 100%;
+        justify-content: space-around;
+    }
+    
+    .footer {
+        display: flex;
+        border-top: 1px solid #f5f5f5;
+        max-width: 1050px;
+        width: 100%;
+        padding-top: 15px;
+    }
+
+    .footer-right {
+        display: inline-block;
+    }
+
+}
