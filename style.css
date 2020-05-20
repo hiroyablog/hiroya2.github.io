@@ -1,0 +1,326 @@
+*{
+    box-sizing: border-box;
+}
+
+.header {
+    display: none!important;
+
+}
+
+.container {
+    width: 100%;
+    padding: 0 40px!important;
+    max-width: 1200;
+    margin: 0 auto;
+    
+}
+
+.main-form {
+    display: none!important;
+}
+
+.main-image {
+    background-image: url(gerasa-5109088_1280.jpg);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-image i {
+    color: #fff;
+    padding: 27px 0 0 24px;
+}
+
+.main-image h1 {
+    text-align: left;
+    font-size: 35px;
+    color: white;
+    padding-top: 100px;
+    font-weight: bold;
+    line-height: 95%;
+}
+
+.form-wrapper p {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 23px;
+    color: #484848;
+}
+
+.location,.roomtype,.guest {
+    height: 35px;
+    margin-bottom: 5px;
+    background-color: white;
+    color: darkgrey;
+}
+
+.form-start {
+    height: 45px;
+    background-color: rgb(236, 97, 97);
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.starting-text {
+    padding-bottom: 50px;
+}
+
+.starting-text h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #484848;
+}
+
+.starting-text p {
+    color: rgb(126, 125, 125);
+    font-size: 16px;
+}
+
+.reason,.helping {
+    margin-top: 45px;
+}
+
+.hosting {
+    padding: 20px 0 75px 0;
+}
+
+.hosting h2 {
+    font-weight: bold;
+    font-size: 36px; 
+    color: #484848;
+    margin-bottom: 35px;
+}
+
+.hosting h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+    color: #484848;
+}
+
+.hosting p {
+    color: rgb(126, 125, 125);
+}
+
+.free,.option,.come {
+    padding-bottom: 25px;
+}
+
+a {
+    color: #008489!important;
+}
+
+.host-example {
+    padding-bottom: 70px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.host-text {
+    margin-top: 10px;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+.host1 {
+    color: #484848;
+    font-size: 18px;
+}
+
+.host2 {
+    color: rgb(126, 125, 125);
+    font-size: 14px;
+}
+
+.check {
+    background-color: white;
+    color: #484848;
+    padding: 9px 16px;
+    border: 2px solid #484848;
+    border-radius: 4px;
+}
+
+.safety {
+    padding: 20px 0 75px 0;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.safety h2 {
+    margin-bottom: 45px;
+    color: #484848;
+    font-weight: bold;
+    font-size: 36px;
+}
+.safety-message {
+    line-height: 1.7;
+    padding-bottom: 30px;
+}
+
+.safety-message p {
+    color: rgb(97, 96, 96);
+    font-size: 16px;
+}
+
+.fa-check {
+    color: #008489;
+}
+
+.safety-list li {
+    list-style-type: none;
+    display: flex;
+    margin-bottom: 10px;
+    color: rgb(97, 96, 96);
+}
+
+.pay {
+    padding: 20px 0 75px 0;
+}
+
+.pay h2 {
+    font-weight: bold;
+    font-size: 36px; 
+    color: #484848;
+    margin-bottom: 35px;
+}
+
+.pay h3 {
+    font-weight: bold;
+    margin: 20px 0;
+    color: #484848;   
+    font-size: 24px;
+}
+
+.pay p {
+    color: rgb(126, 125, 125);
+}
+
+.dream {
+    padding: 20px 0 75px 0;   
+}
+
+.dream h2 {
+    font-weight: bold;
+    font-size: 36px; 
+    color: #484848;
+    margin-bottom: 35px;
+}
+
+.dream h3 {
+    margin: 20px 0;
+    color: #484848;   
+    font-size: 40px;
+}
+
+.dream p {
+    color: rgb(126, 125, 125);
+}
+
+.airbnb-wrapper {
+    padding: 20px 0 75px 0;
+}
+
+.airbnb-wrapper h2 {
+    font-weight: bold;
+    font-size: 36px; 
+    color: #484848;
+    margin-bottom: 35px;
+}
+
+.airbnb-wrapper h3 {
+    font-weight: bold;
+    margin: 20px 0;
+    color: #484848;   
+    font-size: 24px;
+}
+
+.airbnb-wrapper p {
+    color: rgb(126, 125, 125);
+}
+   
+.question {
+    padding: 20px 0 75px 0;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.lists li {
+    list-style-type: none;
+    padding: 25px 0;
+    border-bottom: 1px solid #d8d8d8;
+}
+
+.question h2 {
+    font-weight: bold;
+    font-size: 36px; 
+    color: #484848;
+    margin-bottom: 35px;
+}
+
+.message-wrapper {
+    background-image: url(tunnel-5089488_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.message-wrapper h2 {
+    color: white;
+    padding: 80px 0 0 23px;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 44px;
+}
+
+.message-start {
+    background-color: #fff;
+    color: #484848;
+    padding: 9px 23px;
+    border-radius: 4px;
+    margin: 25px 0 0 23px;
+}
+
+.last-wrapper {
+    display: none;
+}
+
+.footer {
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-top: 70px;
+    max-width: 720px;
+}
+
+.footer p {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 70px;
+    color: rgb(126, 125, 125);
+    float: left;
+}
+
+.all-reserved {
+    color: rgb(126, 125, 125);
+    font-size: 14px;
+}
+
+.footer a {
+    color: rgb(126, 125, 125)!important;
+    font-size: 13px;
+}
+
+.footer-right {
+    display: none;
+}
+
+
+
